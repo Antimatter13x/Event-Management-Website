@@ -1,5 +1,6 @@
 # Event Management Website
 MAIN OBJECTIVE:
+
 To facilitate the user with select, update,delete and insert operations using html frontend and MySQL backend.
 
 DESCRIPTION:
